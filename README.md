@@ -17,7 +17,7 @@ Obs.: A ferramenta prposta  stava indisponivel pata gerar imagem gratuitamente, 
 
 
 ## ebook
- [Clica aqui para ler]( https://github.com/adriano15carmo/ebook-chatgpt.git)
+ [Clica aqui para ler](https://github.com/adriano15carmo/ebook-chatgpt.git](https://github.com/adriano15carmo/ebook-chatgpt/blob/main/output/Ebook.pdf)
 
 
 ## 📖 Prompt
