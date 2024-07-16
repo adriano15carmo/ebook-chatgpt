@@ -18,7 +18,7 @@ Obs.: A ferramenta prposta  stava indisponivel pata gerar imagem gratuitamente, 
 
 ## ebook
  [Clica aqui para ler](https://docs.github.com/)
-![ Imagem gerada por ia ](URL_da_Imagem)
+![ Imagem gerada por ia ](C:\Users\User\pasta-estudos-dio\ebook-chatgpt\assets\Imagem gerada IA.jpg)
 
 ## 📖 Prompt
 ChatGPT:
